@@ -1,11 +1,13 @@
-import './Content.sass'
+/* eslint-disable react/react-in-jsx-scope */
+import './Content.sass';
+import React from 'react';
 
-const Content = () => {
+function Content() {
   return (
     <div className="Content container d-flex align-items-center justify-content-center">
-        <h1>Content</h1>
+      <h1>Content</h1>
     </div>
-  )
+  );
 }
 
-export default Content
+export default Content;
