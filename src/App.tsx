@@ -7,7 +7,7 @@ import Header from './components/Header/Header';
 import Home from './pages/Home/Home';
 import Details from './pages/Details/Details';
 
-// import dotenv from 'dotenv'
+// import dotenv from 'dotenv';
 // dotenv.config();
 
 function App() {
